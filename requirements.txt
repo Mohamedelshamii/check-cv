@@ -1,0 +1,6 @@
+python-telegram-bot>=20.0
+google-generativeai
+PyPDF2
+beautifulsoup4
+requests
+python-dotenv
